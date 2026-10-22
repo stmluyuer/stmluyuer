@@ -64,7 +64,3 @@
 **解除条件**：无。
 
 </details>
-
----
-
-<p align="center"><sub>本页卡牌是东方Project的二次创作，非官方内容。东方Project 原作：上海アリス幻樂団</sub></p>
